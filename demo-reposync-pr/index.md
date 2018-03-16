@@ -1,3 +1,3 @@
 # Welcome to demo-reposync-pr!
 
-contirbuted by public!
+contirbuted by public! Thanks!
