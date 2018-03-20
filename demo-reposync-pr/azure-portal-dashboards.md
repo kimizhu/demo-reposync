@@ -1,5 +1,5 @@
 # Create and share dashboards in the Azure portal
-You can create multiple dashboards and share them with others who have access to your Azure subscriptions.  This article goes through the basics of creating, editing, publishing, and managing access to dashboards.
+You can can create multiple dashboards and share them with others who have access to your Azure subscriptions.  This article goes through the basics of creating, editing, publishing, and managing access to dashboards.
 
 ## Create a dashboard
 To create a dashboard, select the **New dashboard** button next to the current dashboard's name.  
